@@ -1,7 +1,7 @@
 # Graph Interpolation
 This project is a console application that allows you to interpolate a function. Interpolation is the search for unknown intermediate values of some function from the available discrete set of its known values in a certain way. The plot of the interpolated function looks smoother. It is a **pet project** to get experience with **Python**.
 
-This app can:
+This app **can**:
 * Interpolate the function
 * Find the extrema of the function
 * Plot the function
