@@ -11,7 +11,9 @@ This app **can**:
 
 ## Install
 **Step 1**. Install [Python](https://www.python.org/downloads/).
+
 **Step 2**. Install Python libraries.
+
 For this application to work, you need to download several libraries. To install, use the pip package installer.
 1. Install **scipy** to implement interpolation in Python.
 ```
